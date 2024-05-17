@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\bin\Debug\net7.0\HepsiApi.Domain.deps.json
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\bin\Debug\net7.0\HepsiApi.Domain.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\bin\Debug\net7.0\HepsiApi.Domain.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\HepsiApi.Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\HepsiApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\HepsiApi.Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\HepsiApi.Domain.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\HepsiApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\HepsiApi.Domain.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\refint\HepsiApi.Domain.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\HepsiApi.Domain.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Domain\obj\Debug\net7.0\ref\HepsiApi.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IaI3KckACeCwF0tpvLmJxchMG5rnKvY96S8N1BcBljw=",
+  "Source": "HepsiApi.Api",
+  "BasePath": "_content/HepsiApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

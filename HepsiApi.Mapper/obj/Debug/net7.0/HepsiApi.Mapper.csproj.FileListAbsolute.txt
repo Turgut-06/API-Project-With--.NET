@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\bin\Debug\net7.0\HepsiApi.Mapper.deps.json
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\bin\Debug\net7.0\HepsiApi.Mapper.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\bin\Debug\net7.0\HepsiApi.Mapper.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\bin\Debug\net7.0\HepsiApi.Application.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\bin\Debug\net7.0\HepsiApi.Domain.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\bin\Debug\net7.0\HepsiApi.Application.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\bin\Debug\net7.0\HepsiApi.Domain.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.csproj.CopyComplete
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\refint\HepsiApi.Mapper.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\HepsiApi.Mapper.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\HepsiApi.Mapper\obj\Debug\net7.0\ref\HepsiApi.Mapper.dll

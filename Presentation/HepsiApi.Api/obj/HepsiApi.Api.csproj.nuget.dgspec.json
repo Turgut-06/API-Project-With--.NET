@@ -1,0 +1,511 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Presentation\\HepsiApi.Api\\HepsiApi.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj",
+        "projectName": "HepsiApi.Application",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\HepsiApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\HepsiApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.3.2, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\HepsiApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\HepsiApi.Domain.csproj",
+        "projectName": "HepsiApi.Domain",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\HepsiApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\HepsiApi.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\HepsiApi.Mapper.csproj",
+        "projectName": "HepsiApi.Mapper",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\HepsiApi.Mapper.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Infrastructure\\HepsiApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Infrastructure\\HepsiApi.Infrastructure.csproj",
+        "projectName": "HepsiApi.Infrastructure",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Infrastructure\\HepsiApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj"
+              },
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\HepsiApi.Mapper.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\HepsiApi.Mapper.csproj"
+              },
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\HepsiApi.Persistence.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\HepsiApi.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\HepsiApi.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\HepsiApi.Persistence.csproj",
+        "projectName": "HepsiApi.Persistence",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\HepsiApi.Persistence.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Application\\HepsiApi.Application.csproj"
+              },
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\HepsiApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Core\\HepsiApi.Domain\\HepsiApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Presentation\\HepsiApi.Api\\HepsiApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Presentation\\HepsiApi.Api\\HepsiApi.Api.csproj",
+        "projectName": "HepsiApi.Api",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Presentation\\HepsiApi.Api\\HepsiApi.Api.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Presentation\\HepsiApi.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\HepsiApi.Mapper.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\HepsiApi.Mapper\\HepsiApi.Mapper.csproj"
+              },
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Infrastructure\\HepsiApi.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Infrastructure\\HepsiApi.Infrastructure.csproj"
+              },
+              "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\HepsiApi.Persistence.csproj": {
+                "projectPath": "C:\\Users\\lenovo\\Desktop\\.netAPİ\\HepsiApiSln\\Infrastructure\\HepsiApi.Persistence\\HepsiApi.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

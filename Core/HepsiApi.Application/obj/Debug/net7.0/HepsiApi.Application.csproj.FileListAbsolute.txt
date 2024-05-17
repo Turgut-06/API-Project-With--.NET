@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\bin\Debug\net7.0\HepsiApi.Application.deps.json
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\bin\Debug\net7.0\HepsiApi.Application.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\bin\Debug\net7.0\HepsiApi.Application.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\bin\Debug\net7.0\HepsiApi.Domain.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\bin\Debug\net7.0\HepsiApi.Domain.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.csproj.CopyComplete
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\refint\HepsiApi.Application.dll
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\HepsiApi.Application.pdb
+C:\Users\lenovo\Desktop\.netAPİ\HepsiApiSln\Core\HepsiApi.Application\obj\Debug\net7.0\ref\HepsiApi.Application.dll
